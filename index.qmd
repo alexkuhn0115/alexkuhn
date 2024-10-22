@@ -1,0 +1,19 @@
+---
+title: "Alex Kuhn"
+subtitle: "Statistics PhD Student"
+image: headshot.jpg
+about:
+  template: solana
+  image: headshot.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/alexkuhn0115
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alex-kuhn-290b34143/
+---
+
+I am a third-year PhD student in the [School of Statistics](https://cla.umn.edu/statistics) at the University of Minnesota. I am advised by [Sara Algeri](https://salgeri.umn.edu/) and [Galin Jones](https://galinj.github.io/). I am a part of the Data Science in Multi-Messenger Astrophysics ([DSMMA](https://dsmma.umn.edu/)) program. 
+
+I spend a lot of time developing statistical procedures to solve challenging problems in astrophysics and high-energy physics. A copy of my [CV](cv_fall_2024.pdf) is here. 

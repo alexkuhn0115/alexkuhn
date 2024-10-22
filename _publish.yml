@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: bb466db8-0c91-4134-8dda-3b96b043937f
+      url: 'https://alexkuhn.quarto.pub/alexkuhn'

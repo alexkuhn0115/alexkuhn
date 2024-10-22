@@ -1,0 +1,11 @@
+{
+  "hash": "c26856303dc95a2481ee45f5ecae09b3",
+  "result": {
+    "markdown": "---\ntitle: \"Alex Kuhn\"\nsubtitle: \"Statistics PhD Student\"\nimage: headshot.jpg\nabout:\n  template: solana\n  image: headshot.jpg\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/alexkuhn0115\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/alex-kuhn-290b34143/\n---\n\n```{css}\n#| include: false\np {\n  text-align: justify\n}\n```\n\n::: {.justify}\n\nI am a third-year PhD student in the [School of Statistics](https://cla.umn.edu/statistics) at the University of Minnesota. I am advised by [Sara Algeri](https://salgeri.umn.edu/) and [Galin Jones](https://galinj.github.io/). I am a part of the Data Science in Multi-Messenger Astrophysics ([DSMMA](https://dsmma.umn.edu/)) program. \n\nI spend a lot of time developing statistical procedures to solve challenging problems in astrophysics and high-energy physics. A copy of my [CV](cv_fall_2024.pdf) is here. \n\n:::\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
